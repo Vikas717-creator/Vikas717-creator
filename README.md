@@ -56,8 +56,8 @@ Check out my pinned projects to see what I’ve been working on:
 ---
 
 ### 📫 Let’s Connect!
-- **Email:**[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vikasthakur5900@gmail.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vikas-thakur-2304a6261/)
+- **Email:**  [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vikasthakur5900@gmail.com)
+- **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vikas-thakur-2304a6261/)
   
 ---
 
