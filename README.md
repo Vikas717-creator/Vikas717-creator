@@ -57,7 +57,7 @@ Check out my pinned projects to see what I’ve been working on:
 
 ### 📫 Let’s Connect!
 - **Email:** [vikasthakur5900@gmail.com](mailto:vikasthakur5900@gmail.com)
-- **LinkedIn:** [(https://www.linkedin.com/in/vikas-thakur-2304a6261/)]
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vikas-thakur-2304a6261/)
   
 ---
 
