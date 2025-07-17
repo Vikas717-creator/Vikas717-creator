@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate developer and data enthusiast ready to tu
 - 🌱 Currently focused on mastering:
   - **Machine Learning** & **Deep Learning**
   - **Generative AI & NLP**
-  - **Full Stack Web Development** (React.js, Next.js, etc.)
+  - **Full Stack Web Development** 
 - 💼 Open to exciting **job opportunities** and **collaborations**!
 
 ---
