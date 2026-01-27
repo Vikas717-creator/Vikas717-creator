@@ -1,24 +1,96 @@
-# 💫 About Me:
-## 👋 About Me<br><br>- 🔭 I’m currently working on AI/ML projects and data analytics tasks  <br>- 👯 I’m looking to collaborate on machine learning, data analysis, and open-source projects  <br>- 🤝 I’m looking for help with improving model performance and real-world ML deployment  <br>- 🌱 I’m currently learning advanced Python, SQL, and data analytics tools  <br>- 💬 Ask me about AI/ML, deepfake detection, data analysis, and Python  <br>- ⚡ Fun fact: I love solving real-world problems using data<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/vikas-t-2304a6261) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasthakur5900@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vikas 717-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vikas 717-creator&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas 717-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikas 717-creator&limit=5&theme=default&combine_all_yearly_contributions=true)
+<h1 align="center">Hi 👋, I'm Vikas Thakur</h1>
+<h3 align="center">AI/ML Enthusiast | Data Analytics Learner | Problem Solver</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vikas 717-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+- 🔭 Working on AI/ML and data analytics projects  
+- 👯 Open to collaboration on machine learning and data-driven projects  
+- 🤝 Interested in real-world ML implementation & optimization  
+- 🌱 Learning Python, SQL, and analytics tools for industry use  
+- 💬 Ask me about AI/ML, deepfake detection, Python, data analysis  
+- ⚡ I enjoy solving practical problems using data  
+
+---
+
+## 🔝 Featured Projects
+
+### 🎥 Deepfake Video Detection System
+> Multimodal system combining frame, optical flow, and audio features.
+
+- EfficientNet-B4 for frame feature extraction  
+- TV-L1 optical flow for motion analysis  
+- MFCCs for audio representation  
+- Late fusion neural network for final prediction  
+
+🔗 Repo: Coming soon
+
+---
+
+### 📊 Data Analysis Projects
+> Practical datasets with cleaning, EDA, visualization & SQL analysis.
+
+- Data preprocessing using Pandas  
+- Visual insights using Matplotlib  
+- Database queries on large datasets  
+
+🔗 Repo: Coming soon
+
+---
+
+### 🧠 Prompt Inspector & Optimizer
+> Web app + Chrome extension for improving AI prompt quality.
+
+- Prompt analysis and enhancement  
+- Frontend + extension integration  
+- Real-world industry-level project  
+
+🔗 Repo: Coming soon
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Backend & DB
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikas717-creator&theme=dark)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Vikas717-creator&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas717-creator&layout=compact&theme=dark)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Vikas717-creator)
