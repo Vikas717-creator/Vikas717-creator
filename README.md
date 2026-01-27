@@ -14,7 +14,7 @@
 
 ---
 
-## 🔝 Featured Projects
+## 🔝 Top Projects
 
 ### 🎥 Deepfake Video Detection System
 > Multimodal system combining frame, optical flow, and audio features.
@@ -24,7 +24,7 @@
 - MFCCs for audio representation  
 - Late fusion neural network for final prediction  
 
-🔗 Repo: Coming soon
+🔗 Repo: Paper in publication
 
 ---
 
@@ -35,7 +35,7 @@
 - Visual insights using Matplotlib  
 - Database queries on large datasets  
 
-🔗 Repo: Coming soon
+🔗 Repo: Coming Soon
 
 ---
 
@@ -46,7 +46,7 @@
 - Frontend + extension integration  
 - Real-world industry-level project  
 
-🔗 Repo: Coming soon
+🔗 Repo: Privately held
 
 ---
 
@@ -93,5 +93,4 @@
 
 ---
 
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikas 717-creator&limit=5&theme=default&combine_all_yearly_contributions=true)
+
